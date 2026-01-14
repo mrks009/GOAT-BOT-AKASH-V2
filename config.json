@@ -12,15 +12,15 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "♡┋Տʜɪᴢᴜᴋꫝㅤᥫ᭡",
+  "nickNameBot": "Tor Bap😈",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100078049308655",
-    "61577213967981"
+    "122262291560179079",
+    "25576938041986553"
   ],
   "reactUnsend": {
     "enable": true,
@@ -31,8 +31,8 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100083039411474",
-      "100063840894133"
+      "25576938041986553",
+      "122262291560179079"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
@@ -51,7 +51,7 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "botofnexxo@gmail.com",
+      "email": "mehedyofficial@aol.com",
       "clientId": "848792512039-g3mlfd39p9ttu82ga4kahk6kadjr0hcp.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04nBMNYnfbedsCgYIARAAGAQSNwF-L9IrmyZIKKZaDmN9aqXhIuO1wxk2jpkXPf3zuL_KN-IU99BNhW7eUGCFrDr0hJetNkBFExg",
